@@ -26,7 +26,7 @@ ___
 
 ## Thanks for visiting , I'd love to connect!
 
-- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](donya.dastkin583@gmail.com) : [donya.dastkin583@gmail.com]
+- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](donya.dastkin583@gmail.com) : donya.dastkin583@gmail.com
 
 - ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) : [donya-dastkin](https://github.com/donya-dastkin)
 
