@@ -34,5 +34,4 @@
 
 ___
 
-![](https://komarev.com/ghpvc/?username=donya-dastkin&color=ff69b4&style=plastic)
-
+![](https://komarev.com/ghpvc/?username=donya-dastkin&color=1f425f&style=plastic)
