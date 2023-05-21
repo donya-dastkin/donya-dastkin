@@ -30,3 +30,9 @@
 - ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) : [donya-dastkin](https://github.com/donya-dastkin)
 
 - [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sam_sepioll) : [@donyaa_583](https://t.me/donyaa_583)
+
+
+___
+
+![](https://komarev.com/ghpvc/?username=donya-dastkin&color=ff69b4&style=plastic)
+
