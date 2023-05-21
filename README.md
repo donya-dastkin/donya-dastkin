@@ -2,14 +2,11 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" width="300">
 
-
-
 #### **I'm *Donya* ([19]y.o)**
 
  I'm learning programming 👩🏻‍💻
 
  I love programming and analyzing different programs 💕
-
 
 **I will share with you the programs that challenged me and the interesting things that I learned from them 😉📲** 
 
@@ -37,4 +34,5 @@
 
 - [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sam_sepioll) : [@donyaa_583](https://t.me/donyaa_583)
 
-![](https://komarev.com/ghpvc/?username=donya-dastkin&color=1f425f&style=plastic)
+
+[![](https://visitcount.itsvg.in/api?id=donya-dastkin&icon=5&color=6)](https://visitcount.itsvg.in)
