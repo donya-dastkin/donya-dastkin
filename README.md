@@ -34,4 +34,4 @@
 
 - [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sam_sepioll) : [@donyaa_583](https://t.me/donyaa_583)
 
-![](https://komarev.com/ghpvc/?username=donya-dastkin&color=555aff&style=plastic)
+![](https://komarev.com/ghpvc/?username=donya-dastkin&color=aeaeec&style=plastic)
