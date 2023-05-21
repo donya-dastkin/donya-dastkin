@@ -4,9 +4,9 @@
 
 #### **I'm *Donya* ([19]y.o)**
 
-- I'm learning programming 👩🏻‍💻
+ I'm learning programming 👩🏻‍💻
 
-- I love programming and analyzing different programs 💕
+ I love programming and analyzing different programs 💕
 
 
 **I will share with you the programs that challenged me and the interesting things that I learned from them 😉📲** 
