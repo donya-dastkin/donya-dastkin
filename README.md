@@ -4,13 +4,13 @@
 
 #### **I'm *Donya* ([19]y.o)**
 
- I'm learning programming 👩🏻‍💻
+ I'm learning programming <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="24">
 
- I love programming and analyzing different programs 💕
+ I love programming and analyzing different programs 🩷
 
 **I will share with you the programs that challenged me and the interesting things that I learned from them 😉📲** 
 
-**Thank you, if you see a problem in my program, be sure to tell me so that I can fix it with your guidance and learn a new lesson from you. 🤗🤍**
+**Thank you, if you see a problem in my program, be sure to tell me so that I can fix it with your guidance and learn a new lesson from you. 🤗🩵**
 
 
 <h2> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40"> Skills</h2>
