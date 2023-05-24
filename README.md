@@ -23,11 +23,10 @@
 
 ![](https://komarev.com/ghpvc/?username=donya-dastkin&color=aeaeec&style=plastic)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=donya-dastkin&show_icons=true&theme=radical)](https://github.com/donya-dastkin/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=donya-dastkin&theme=radical)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donya-dastkin&layout=compact&theme=radical)](https://github.com/donya-dastkin/github-readme-stats)
+
 
 ## Thanks for visiting , I'd love to connect!
 
