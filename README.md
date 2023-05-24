@@ -26,6 +26,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=donya-dastkin&theme=radical)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donya-dastkin&layout=compact&theme=radical)](https://github.com/donya-dastkin/github-readme-stats)
+
 ## Thanks for visiting , I'd love to connect!
 
 - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](donya.dastkin583@gmail.com) : donya.dastkin583@gmail.com
