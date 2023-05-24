@@ -19,7 +19,8 @@
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-## 📊GitHub Stats
+<h2> <img width="40px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />  GitHub Stats</h2>
+
 ![](https://komarev.com/ghpvc/?username=donya-dastkin&color=aeaeec&style=plastic)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=donya-dastkin&show_icons=true&theme=radical)](https://github.com/donya-dastkin/github-readme-stats)
