@@ -30,11 +30,11 @@
 
 ![](https://komarev.com/ghpvc/?username=donya-dastkin&color=aeaeec&style=plastic)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=donya-dastkin&show_icons=true&theme=tokyonight&PAT-1&PAT-1)](https://github.com/donya-dastkin/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=donya-dastkin&show_icons=true&theme=tokyonight&width=50&PAT-1&PAT-1)](https://github.com/donya-dastkin/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=donya-dastkin&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=donya-dastkin&width=50&theme=tokyonight)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donya-dastkin&layout=compact&theme=tokyonight&pat1&PAT-1)](https://github.com/donya-dastkin/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donya-dastkin&layout=compact&theme=tokyonight&width=50&pat1&PAT-1)](https://github.com/donya-dastkin/github-readme-stats)
 
 ## Thanks for visiting , I'd love to connect!
 
