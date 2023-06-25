@@ -26,15 +26,20 @@
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
+
 <h2> <img width="40px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />  GitHub Stats</h2>
 
 ![](https://komarev.com/ghpvc/?username=donya-dastkin&color=aeaeec&style=plastic)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=donya-dastkin&show_icons=true&theme=tokyonight&PAT-1&PAT-1)](https://github.com/donya-dastkin/github-readme-stats)
+<p align="left">
+<a href="https://github.com/donya-dastkin">
+<img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=donya-dastkin&show_icons=true&theme=tokyonight&PAT-1&PAT-1)](https://github.com/donya-dastkin/github-readme-stats"/><br>
+  
+<img height="180em" width="400em" src="https://streak-stats.demolab.com/?user=donya-dastkin&theme=tokyonight"/><br>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=donya-dastkin&theme=tokyonight)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donya-dastkin&layout=compact&theme=tokyonight&pat1&PAT-1)](https://github.com/donya-dastkin/github-readme-stats)
+<img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=donya-dastkin&layout=compact&theme=tokyonight&pat1&PAT-1)](https://github.com/donya-dastkin/github-readme-stats"/>
+</a>
+</p>
 
 ## Thanks for visiting , I'd love to connect!
 
