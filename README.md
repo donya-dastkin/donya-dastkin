@@ -15,9 +15,9 @@
 
 ## Thanks for visiting , I'd love to connect!
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](donya.dastkin583@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/donyaa_583)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/donya_dastkin)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](donya.dastkin583@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/donyaa_583)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/donya_dastkin)
 
 <h2> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40"> Skills</h2>
 
@@ -49,3 +49,4 @@
 <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=donya-dastkin&layout=compact&theme=tokyonight&pat1&PAT-1)](https://github.com/donya-dastkin/github-readme-stats"/>
 </a>
 </p>
+
