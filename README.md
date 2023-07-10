@@ -12,6 +12,13 @@
 
 #### Thank you, if you see a problem in my program, be sure to tell me so that I can fix it with your guidance and learn a new lesson from you. 🤗🩵
 
+
+## Thanks for visiting , I'd love to connect!
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](donya.dastkin583@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/donyaa_583)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/donya_dastkin)
+
 <h2> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40"> Skills</h2>
 
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
@@ -42,11 +49,3 @@
 <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=donya-dastkin&layout=compact&theme=tokyonight&pat1&PAT-1)](https://github.com/donya-dastkin/github-readme-stats"/>
 </a>
 </p>
-
-## Thanks for visiting , I'd love to connect!
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](donya.dastkin583@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/donyaa_583)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/donya_dastkin)
-
-
