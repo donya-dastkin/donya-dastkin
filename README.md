@@ -12,8 +12,9 @@
 
 #### Thank you, if you see a problem in my program, be sure to tell me so that I can fix it with your guidance and learn a new lesson from you. 🤗🩵
 
+#### Thanks for visiting 💛
 
-## Thanks for visiting , I'd love to connect!
+## I'd love to connect!
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](https://mailto:donya.dastkin583@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/donyaa_583)
