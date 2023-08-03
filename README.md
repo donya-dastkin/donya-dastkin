@@ -45,11 +45,11 @@
 
 <p align="left">
 <a href="https://github.com/donya-dastkin">
-<img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=donya-dastkin&show_icons=true&theme=tokyonight&PAT-1&PAT-1&PAT-1)](https://github.com/donya-dastkin/github-readme-stats"/><br>
+<img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=donya-dastkin&show_icons=true&theme=tokyonight&PAT-1)](https://github.com/donya-dastkin/github-readme-stats"/><br>
   
 <img height="180em" width="400em" src="https://streak-stats.demolab.com/?user=donya-dastkin&theme=tokyonight"/><br>
 
-<img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=donya-dastkin&layout=compact&theme=tokyonight&pat1&PAT-1&PAT-1)](https://github.com/donya-dastkin/github-readme-stats"/>
+<img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=donya-dastkin&layout=compact&theme=tokyonight&PAT-1)](https://github.com/donya-dastkin/github-readme-stats"/>
 </a>
 </p>
 
