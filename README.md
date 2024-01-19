@@ -25,19 +25,26 @@
 
 <h2> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40"> Skills</h2>
 
-[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+**Front End :**
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+
+**Back End :**
+
+[![My Skills](https://skillicons.dev/icons?i=go,php,py)](https://skillicons.dev)
+
+**Tools :**
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,markdown)](https://skillicons.dev)
+
+**Framework :**
+
+[![My Skills](https://skillicons.dev/icons?i=laravel)](https://skillicons.dev)
+
+**Package Management :**
+
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-
-## 📚 Learning
-
-![Go](https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=Go&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Composer](https://img.shields.io/badge/Composer-565845.svg?style=for-the-badge&logo=Composer&logoColor=white)
 
 
 <h2> <img width="40px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />  GitHub Stats</h2>
